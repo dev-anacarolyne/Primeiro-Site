@@ -1,0 +1,22 @@
+body {
+    background-image: url("img/angel.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1 {  
+    font-family: monospace;
+    text-align: center;
+}
+p{
+    font-family: monospace
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 50%; 
+}   
+p {
+    text-align:center;
+    font-size: 20px;
+}
+

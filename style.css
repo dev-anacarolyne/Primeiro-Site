@@ -1,0 +1,21 @@
+body {
+    background-image: url("img/papeldi.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color:rgb(222, 45, 74)
+    font-size:20px;
+    text-align:center;
+
+}
+
+p{
+    color:rgb(222, 45, 74)
+    font: size 50px;px;
+    text-align: center;
+}
+.itens{
+    font-style: italic;
+}
